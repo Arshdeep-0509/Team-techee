@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Team-techee/static/css/main.f84f0559.css",
+    "main.js": "/Team-techee/static/js/main.e7500949.js",
+    "index.html": "/Team-techee/index.html",
+    "main.f84f0559.css.map": "/Team-techee/static/css/main.f84f0559.css.map",
+    "main.e7500949.js.map": "/Team-techee/static/js/main.e7500949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84f0559.css",
+    "static/js/main.e7500949.js"
+  ]
+}
